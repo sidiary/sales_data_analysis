@@ -116,7 +116,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 jupyter notebook sales_analysis_final.ipynb
 ```
 
-Or open `Sales_Analysis_Final.ipynb` directly in **VS Code** with the Jupyter extension installed,  
+Or open `sales_analysis_final.ipynb` directly in **VS Code** with the Jupyter extension installed,  
 select the correct Python kernel, and click **Run All**.
 
 ---
